@@ -1,6 +1,6 @@
 {
-  "name": "@test/simple-template",
-  "version": "1.0.15",
+  "name": "@npmmaintea/voluptates-impedit-atque-nostrum",
+  "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -10,8 +10,15 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/utilcode/simple-template.git"
+    "url": "https://github.com/npmmaintea/voluptates-impedit-atque-nostrum.git"
   },
   "dependencies": {
+    "@npmmaintea/aliquam-accusantium-debitis-nulla": "^1.0.0",
+    "@npmmaintea/architecto-labore-numquam-eligendi": "^1.0.0",
+    "@npmmaintea/cautious-waddle": "^1.0.0",
+    "@npmmaintea/glowing-broccoli": "^1.0.0",
+    "@npmmaintea/ipsa-alias-voluptatem-aperiam": "^1.0.0",
+    "@npmmaintea/potential-octo-dollop": "^1.0.0",
+    "@npmmaintea/psychic-doodle": "^1.0.0"
   }
 }
